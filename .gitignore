@@ -1,5 +1,5 @@
 node_modules/*
 data.json
-index.json
+index.js
 package-lock.json
 package.json
